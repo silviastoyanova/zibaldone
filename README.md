@@ -1,2 +1,2 @@
 # Zibaldone di pensieri
-Conatins data files from the Zibaldone di pensieri project to accompany the website at https://digitalzibaldone.net/
+This repository contains data and other files for the Zibaldone di pensieri project. The project website can be found at https://digitalzibaldone.net/
