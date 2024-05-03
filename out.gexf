@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<graph defaultedgetype="undirected" timeformat="double" mode="dynamic">
+<nodes>
+  <node id="p1084_2" label="1084,2">
+    <attvalues>
+      <attvalue for="type" value="paragraph"></attvalue>
+      <attvalue for="uri" value="https://digitalzibaldone.net/paragraph/p1084_2"></attvalue>
+    </attvalues>
+    <viz:size value="160"></viz:size>
+    <viz:color r="29" g="168" b="29"></viz:color>
+  </node>
+  <node id="p956_1" label="956,1">
+    <attvalues>
+      <attvalue for="type" value="paragraph"></attvalue>
+      <attvalue for="uri" value="https://digitalzibaldone.net/paragraph/p956_1"></attvalue>
+    </attvalues>
+    <viz:size value="160"></viz:size>
+    <viz:color r="29" g="168" b="29"></viz:color>
+  </node>
+  <node id="p4249_3" label="4249,3">
+    <attvalues>
+      <attvalue for="type" value="paragraph"></attvalue>
+      <attvalue for="uri" value="https://digitalzibaldone.net/paragraph/p4249_3"></attvalue>
+    </attvalues>
+    <viz:size value="160"></viz:size>
+    <viz:color r="29" g="168" b="29"></viz:color>
+  </node>
+  <node id="Q601506" label="Cesari, Antonio">
+    <attvalues>
+      <attvalue for="type" value="person"></attvalue>
+      <attvalue for="uri" value="https://www.wikidata.org/wiki/Q601506"></attvalue>
+    </attvalues>
+    <viz:size value="160"></viz:size>
+    <viz:color r="168" g="29" b="29"></viz:color>
+  </node>
+</nodes>
+<edges>
+  <edge source="p956_1" target="Q601506">
+    <viz:color r="200" g="200" b="200"></viz:color>
+  </edge>
+  <edge source="p1084_2" target="Q601506">
+    <viz:color r="200" g="200" b="200"></viz:color>
+  </edge>
+  <edge source="p4249_3" target="Q601506">
+    <viz:color r="200" g="200" b="200"></viz:color>
+  </edge>
+  <edge source="p4249_3" target="Q601506">
+    <viz:color r="200" g="200" b="200"></viz:color>
+  </edge>
+    </edges>
+  </graph>
+</gexf>
